@@ -1,4 +1,7 @@
 # git_test
 
-Odin project git test repo
 Hello Odin!
+
+Odin project git test repo that includes exercises from:
+
+- HTML Foundations Lessons
